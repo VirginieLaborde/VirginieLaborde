@@ -1,16 +1,35 @@
-### Hi there 👋
+## Hi there 👋
 
-<!--
-**VirginieLaborde/VirginieLaborde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 💬 About me
+I'm Virginie, almost 40, from Nantes (north-western France). 
+I spent 15 years in Supply chain management, then decided I wanted to learn more about coding and manipulating data.
 
-Here are some ideas to get you started:
+I'm currently studying fullstack JavaScript at the O'clock coding school (https://oclock.io/). This school provides an intensive 6-month course.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm curious, patient, **love** debugging (really! and I genuinely love to help debugging, too!), and aim to code as clean as possible.
+
+### Languages, frameworks and tools
+* HTML5 / CSS3
+* **JavaScript ES6+**
+* **NodeJS**
+* NPM 
+* **SQL / PostgreSQL**
+* Sqitch
+* Redis
+* Git / Github
+* Test driven development (using Chai & Mocha)
+* Agile development
+* Trello, Slack
+
+### What I'm working on
+I'm currently working on my end-of-course peer project, which we will stream on Youtube end of March. 
+
+### 📫 How to contact me
+* Email : virginielaborde.contact@gmail.com
+* Linkedin : https://www.linkedin.com/in/virginielaborde/
+
+### 😄 Pronouns
+She, her, hers
+
+### ⚡ Fun fact
+I originally have a engineer's degree in mechanics, but don't ask me  why your car won't start, because I specialized in Supply Chain Management !
