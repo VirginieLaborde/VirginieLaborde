@@ -24,6 +24,10 @@ I'm curious, patient, **love** debugging (really! and I genuinely love to help d
 ### What I'm working on
 I'm currently working on my end-of-course peer project, which we will stream on Youtube end of March. 
 
+### My repositories 
+#### API_jeux-de-societe_VirginieLaborde
+An API I designed during my training, to help me maintain my boardgames collection. The first version is stable, and I'm working on updates.
+
 ### 📫 How to contact me
 * Email : virginielaborde.contact@gmail.com
 * Linkedin : https://www.linkedin.com/in/virginielaborde/
