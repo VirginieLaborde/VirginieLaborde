@@ -9,22 +9,23 @@ I just finished a 6-month course at the O'clock coding school (https://oclock.io
 I'm curious, patient, **love** debugging (really! and I genuinely love to help debugging, too!), and aim to code as clean as possible.
 
 ### Languages, frameworks and tools
-* HTML5 / CSS3
+* HTML5, CSS3, Sass
 * **JavaScript ES6+**
 * **NodeJS**
+* **VueJS** and its ecosystem: Vue Router, Vuex, and Vuetify (material design framework)
 * NPM 
 * **SQL / PostgreSQL**
 * Neo4j / Cypher
 * Sqitch
 * Redis
-* Git / Github
 * Test driven development (using Chai & Mocha)
+* **Git, Github, Gitlab, Redmine**
 * Agile development
-* Trello, Slack
+* Trello, Slack, Teams
 
 ### What I'm working on
-I just finished the first version of my end-of-course peer project, which we streamed on [Youtube](https://youtu.be/Jyh9R5xPMuM?t=420) March 23rd. Our project starts at 7:00, and it's in French. 
-I'm now still working on it, and it will hopefully help me obtain a [Professional Diploma](https://www.francecompetences.fr/recherche/rncp/31114/).
+I just started my first official job as a Front-end Developer 🥳 I'm learning Vue.js and its ecosystem, and I'm loving it 😍
+I chose to start as a front-end developer because I had mainly worked back-end so far, so I needed more front-end experience !
 
 ### My repositories 
 #### API_jeux-de-societe_VirginieLaborde
