@@ -1,10 +1,10 @@
 ## Hi there 👋
 
 ### 💬 About me
-I'm Virginie, almost 40, from Nantes (north-western France). 
-I spent 15 years in Supply chain management, then decided I needed to learn more about coding and manipulating data.
+I'm Virginie, 40, from Nantes (north-western France). 
+I spent 15 years in Supply chain management, then decided to retrain and learn more about coding and manipulating data.
 
-I just finished a 6-month course at the O'clock coding school (https://oclock.io/). I studied JavaScript (fullstack).
+In 2020/2021, I did a 6-month course at the O'clock coding school (https://oclock.io/). I studied JavaScript (fullstack).
 
 I'm curious, patient, **love** debugging (really! and I genuinely love to help debugging, too!), and aim to code as clean as possible.
 
@@ -25,7 +25,7 @@ I'm curious, patient, **love** debugging (really! and I genuinely love to help d
 
 ### What I'm working on
 I just started my first official job as a Front-end Developer 🥳 I'm learning Vue.js and its ecosystem, and I'm loving it 😍
-I chose to start as a front-end developer because I had mainly worked back-end so far, so I needed more front-end experience !
+I chose to start as a front-end developer because I had mainly worked back-end so far, so I needed more front-end experience ! 
 
 ### My repositories 
 #### API_jeux-de-societe_VirginieLaborde
